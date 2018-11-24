@@ -2,7 +2,7 @@ package br.com.monkeyhand.upload.models;
 
 public class Product {
 
-    private Integer id; //comment
+    private Integer id;
     private String name;
 
     public Integer getId() {
